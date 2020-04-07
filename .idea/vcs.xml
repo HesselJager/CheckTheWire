@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wire" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../CheckTheWireGit" vcs="Git" />
   </component>
 </project>

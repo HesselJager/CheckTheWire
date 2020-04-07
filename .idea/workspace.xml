@@ -1,4 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12b412d9-d3c5-4e6e-9bde-e35f15a20e03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aCBk433V1Ur8FnljILzCRkZGMZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="100" key="#PHP" timestamp="1586230925517">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="547" y="100" key="#PHP/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230925517" />
+    <state x="160" y="83" key="MergeDialog" timestamp="1586230713071">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="160" y="83" key="MergeDialog/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230713071" />
+    <state x="552" y="225" key="MultipleFileMergeDialog" timestamp="1586230713075">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="552" y="225" key="MultipleFileMergeDialog/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230713075" />
+    <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1586230727865">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="242" key="Vcs.Push.Dialog.v2/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230727865" />
+  </component>
 </project>
