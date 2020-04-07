@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12b412d9-d3c5-4e6e-9bde-e35f15a20e03" name="Default Changelist" comment="" />
+    <list default="true" id="12b412d9-d3c5-4e6e-9bde-e35f15a20e03" name="Default Changelist" comment="added bootstrap">
+      <change afterPath="$PROJECT_DIR$/links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +19,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/HesselJager/CheckTheWire" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1aCBk433V1Ur8FnljILzCRkZGMZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="test">
+      <created>1586230976513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586230976513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -34,11 +56,22 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="test" />
+    <MESSAGE value="added links folder" />
+    <MESSAGE value="added bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="added bootstrap" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="547" y="100" key="#PHP" timestamp="1586230925517">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="547" y="100" key="#PHP/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230925517" />
+    <state x="465" y="104" key="CommitChangelistDialog2" timestamp="1586240549687">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="465" y="104" key="CommitChangelistDialog2/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586240549687" />
     <state x="160" y="83" key="MergeDialog" timestamp="1586230713071">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -47,9 +80,17 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="552" y="225" key="MultipleFileMergeDialog/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230713075" />
-    <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1586230727865">
+    <state x="341" y="152" key="SettingsEditor" timestamp="1586231670237">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="432" y="242" key="Vcs.Push.Dialog.v2/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230727865" />
+    <state x="341" y="152" key="SettingsEditor/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586231670237" />
+    <state x="432" y="242" key="Vcs.Push.Dialog.v2" timestamp="1586230984498">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="242" key="Vcs.Push.Dialog.v2/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586230984498" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1586234379208">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/1680.-139.1280.994/0.0.1680.1020@0.0.1680.1020" timestamp="1586234379208" />
   </component>
 </project>
