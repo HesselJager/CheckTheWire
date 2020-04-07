@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CheckTheWireGit.iml" filepath="$PROJECT_DIR$/.idea/CheckTheWireGit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CheckTheWire.iml" filepath="$PROJECT_DIR$/.idea/CheckTheWire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CheckTheWireGit/.idea/CheckTheWireGit.iml" filepath="$PROJECT_DIR$/../CheckTheWireGit/.idea/CheckTheWireGit.iml" />
     </modules>
   </component>
 </project>
