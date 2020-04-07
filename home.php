@@ -5,6 +5,6 @@
     <title>Check The Wire</title>
 </head>
 <body>
-<p>test</p>
+    <p>test</p>
 </body>
 </html>
